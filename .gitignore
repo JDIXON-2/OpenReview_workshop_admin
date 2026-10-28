@@ -1,0 +1,25 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Credentials
+creds.json
+.env
+*.env
+
+# Data files (inputs and generated outputs)
+*.csv
+*.tsv
+*.json
+*.xlsx
+
+# Editor settings
+.vscode/
+.DS_Store
